@@ -1,0 +1,11 @@
+## 하고싶은것들 리스트
+
+국회의원 크롤링 & (로컬) 웹페이지로 구축
+https://www.youtube.com/watch?v=7_IEdMv9eFE&t=146s
+
+[2017 파이썬 연말 세미나] Azure Function 활용한 파이썬 크롤링 스케쥴링 - 이진석
+https://www.youtube.com/watch?v=3uXIcX3ixDE&t=2s
+
+이준범: 처음부터 알아보는 웹 크롤러
+https://www.youtube.com/watch?v=KwiNvOgtRdo
+*강의자료: https://goo.gl/3ViTzX

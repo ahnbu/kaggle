@@ -1,0 +1,46 @@
+## 하고싶은것들 리스트
+
+@@ 장고 튜토리얼 (애스크장고) - udemy
+https://www.udemy.com/djangogirls-with-askdjango/learn/v4/t/lecture/9430164?start=0
+
+@@ 파이썬 크롤러 만들기 강좌 - 김경록
+https://www.youtube.com/watch?v=PNpS2Id8qyc&list=PLAdQRRy4vtQRzdg7D9n1rkDp9DIeWpBQ9
+*참고 : http://krksap.tistory.com/notice/1116
+*한입에 웹크롤러 저자
+
+@@ 이준범: 처음부터 알아보는 웹 크롤러
+https://www.youtube.com/watch?v=KwiNvOgtRdo
+*강의자료: https://goo.gl/3ViTzX
+
+@@ 구글 매출 예측해보는 Kaggle 도전해보기
+
+@@ 텐서플로우, 텍스트 분석 라이브러리로 표준용어 자동 분해 서비스 구현해보기 (MetaLens)
+
+
+======================= done ==========================
+
+@@ 국회의원 크롤링 & (로컬) 웹페이지로 구축
+https://www.youtube.com/watch?v=7_IEdMv9eFE&t=146s
+발표자료는 여기서!! : goo.gl/E5qjoN
+
+==> 국회의원 명단, 정보 + 공약이행률까지 정리
+==> 단, 로컬 웹페이지 구축은 아직 안해봤으나, 이것은 Azure 먼저 해보고 하기
+
+
+@@ 네이버 주식(투자전략리포트) 크롤링
+https://kiddwannabe.blog.me/221350532353?Redirect=Log&from=postView
+
+==> URL / 철자 누락한 부분을 찾아냈음 (응답받음)
+==> 프로그레스 진행률을 국회의원에도 적용해봤음
+
+
+@@ [2017 파이썬 연말 세미나] Azure Function 활용한 파이썬 크롤링 스케쥴링 - 이진석
+https://www.youtube.com/watch?v=3uXIcX3ixDE&t=2s
+===> Azure 업데이트가 되면서, 파이썬으로 작성하는 것이 사라져버렸음
+
+
+@@ 타이타닉
+
+
+@@ 바이크
+

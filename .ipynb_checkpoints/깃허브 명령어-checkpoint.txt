@@ -28,3 +28,7 @@ touch initial
 git add initial
 git commit -m "초기화"
 git push -u origin master
+
+
+
+출처: https://www.youtube.com/watch?v=tC8Xj_Bf8Fw

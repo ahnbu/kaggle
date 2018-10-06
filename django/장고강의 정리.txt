@@ -1,0 +1,36 @@
+장고 서버 시작하기
+
+1. 해당 폴더로 이동
+2. myvenv\Scripts\activate => 해제하기 deactivate
+3. 서버 구동하기 python manage.py runserver (서버 중단은 ctrl + C)
+4. http://127.0.0.1:8000/ 접속해서 체크하기
+
+처음이라면, 
+2~3번 사이에 세팅&DB설정하기 & migrate해줘야 함
+
+1) settings.py 설정
+TIME_ZONE = 'Asia/Seoul'
+LANGUAGE_CODE = 'ko-kr' --> 관리자화면 한글
+STATIC_URL = '/static/'
+STATIC_ROOT = os.path.join(BASE_DIR, 'static')
+ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
+
+2) DB 설정
+기본 SQLite 사용
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.sqlite3',
+        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+    }
+}
+
+python manage.py makemigration 실행후
+python manage.py migrate 실행
+(DB 변경시에도 마찬가지)
+
+폴더 만들고 DB변경시에는
+python manage.py makemigration blog 실행후
+python manage.py migrate blog 실행
+(DB 변경시에도 마찬가지)
+
+

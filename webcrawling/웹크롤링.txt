@@ -1,0 +1,13 @@
+유투브 강좌 정리: https://www.youtube.com/watch?v=7_IEdMv9eFE&t=146s
+
+애스크장고 운영자 강의
+
+# 정확한 주소를 찾아간다.
+(1) 보이는 주소 -- 그런데, 주소는 안바뀌고 콘텐츠만 바뀐다.
+http://www.assembly.go.kr/assm/memact/congressman/memCond/memCond.do
+(2) 개발자도구에서 네트워크를 보면, Ajax가 보인다.
+http://www.assembly.go.kr/assm/memact/congressman/memCond/memCondListAjax.do
+(3) 인자를 살펴보고, 인자값은 변경해주면, 한꺼번에 조회할 수 있다.
+http://www.assembly.go.kr/assm/memact/congressman/memCond/memCondListAjax.do?currentPage=10
+
+
